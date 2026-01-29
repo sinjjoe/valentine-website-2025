@@ -1,4 +1,3 @@
-// config.js
 export const config = {
   valentineName: "Kyle",
   pageTitle: "Will You Be My Valentine? 💝",
@@ -42,9 +41,4 @@ export const config = {
 
   animations: {
     floatDuration: "15s",
-    floatDistance: "50px",
-    bounceSpeed: "0.5s",
-    heartExplosionSize: 1.5,
-  },
-};
-
+    floatDistance: "5
