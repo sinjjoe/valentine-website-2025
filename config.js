@@ -41,4 +41,8 @@ export const config = {
 
   animations: {
     floatDuration: "15s",
-    floatDistance: "5
+    floatDistance: "50px",
+    bounceSpeed: "0.5s",
+    heartExplosionSize: 1.5,
+  },
+};
